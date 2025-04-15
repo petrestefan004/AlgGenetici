@@ -6,3 +6,4 @@ Algoritmul urmeaza urmatorii pasi:
  -Incrucisare: Aplica o probabilitate pentru cromozomii selectati sa se recombine
  -Mutatie: Modifica anumite gene dintr-un cromozom cu o probabilitate data
  -Evolutie: Parcurge si stocheaza iterativ date despre populatia fiecarei generatii, urmarind maximul si media fitnessului acestora.
+	
